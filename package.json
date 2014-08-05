@@ -1,4 +1,4 @@
-{ "name": "meteorite"
+{ "name": "meteorite-crappy-network-fix"
 , "version": "0.7.6"
 , "homepage": "http://oortcloud.github.com/meteorite"
 , "engines": [ "node >=0.8.0" ]
@@ -27,7 +27,7 @@
   }
 , "repository":
   { "type" : "git"
-  , "url" : "https://github.com/oortcloud/meteorite.git"
+  , "url" : "https://github.com/marcodejongh/meteorite.git"
   }
 , "bin" : { "mrt" : "./bin/mrt.js" }
 }
